@@ -2,13 +2,15 @@
   "cycle": 0,
   "born": null,
   "lastActive": null,
-  "name": null,
+  "name": "spawn-test",
   "network": {
-    "registered": false,
+    "registered": true,
     "registryAddress": "0x3081aE79B403587959748591bBe1a2c12AeF5167"
   },
   "token": {
-    "launched": false,
-    "address": null
+    "launched": true,
+    "address": "0x1543D2F06f550AD6939aF24228dAaBd537A7dCFA",
+    "symbol": "SPAWNT",
+    "txHash": "0xe96f7e92031f4d63f2fb35cb9ef66b4e6aa16d1af531279baebe8d5818a029ff"
   }
 }
